@@ -35,4 +35,4 @@ Please be sure to regularly check back to this website and/or pull the repositor
 - :white_check_mark: - [week 8 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week8)
 - :white_check_mark: - [week 9 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week9)
 - :white_check_mark: - [week 10 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week10)
-- :new: - [week 11 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week11)
+- :white_check_mark: - [week 11 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week11)
